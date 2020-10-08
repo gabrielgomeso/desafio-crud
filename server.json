@@ -1,28 +1,20 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
+      "image": "https://vivaemharmonia.org/wp-content/uploads/2017/03/hamburguer-saudavel-200x200.jpg",
+      "name": "Hamburguer",
+      "price": "16",
+      "description": "Pão carne e queijo",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://fastly.4sqi.net/img/general/200x200/16153973_zq8qxEg72quK0ZplUrFMjF1nG08yrn8zk1sJ1stdGOA.jpg",
+      "name": "Arroz",
+      "price": "22",
+      "description": "V[arias coisas",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 2
     }
   ]
 }
